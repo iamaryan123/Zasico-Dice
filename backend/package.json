@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^5.1.0",
+    "connect-mongodb-session": "^3.1.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "express-session": "^1.17.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.4",
+    "sinon": "^17.0.1",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "scripts": {
+    "test": "mocha tests/**/*.js",
+    "start": "node server.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

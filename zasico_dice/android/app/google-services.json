@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "210447412822",
+    "project_id": "zasico-dice-f2a34",
+    "storage_bucket": "zasico-dice-f2a34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210447412822:android:d522411c194f380923d5f7",
+        "android_client_info": {
+          "package_name": "com.example.zasico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210447412822-4rqp2kj9ghea7fo4oh4i1dv4rckkqhd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zasico",
+            "certificate_hash": "a5142993017d5ed9d44d0bd6259503f46abea928"
+          }
+        },
+        {
+          "client_id": "210447412822-u8pl398gt2pht6iouf683rv9asp9itqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfe6cMIDfrx2JdEBw_LEX4HsZSGbmmFkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210447412822-u8pl398gt2pht6iouf683rv9asp9itqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210447412822-73m4745jcvavcupm8tgciep4rfgetumg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zasicoDice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
